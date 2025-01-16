@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Demo Suite,,,,16-01-2025 03:00:35,16-01-2025 03:00:36,0.507s,FAILED
+,,,,,,,
+Test Cases/Demo,,,,16-01-2025 03:00:36,16-01-2025 03:00:36,0.010s,FAILED
+Start listener action : enableSauceLabs,,,,16-01-2025 03:00:36,16-01-2025 03:00:36,0.001s,PASSED
+"switchToWindowTitle("""")",,,,16-01-2025 03:00:36,16-01-2025 03:00:36,0.004s,FAILED
+Start listener action : autoUpdateJobStatus,,,,16-01-2025 03:00:36,16-01-2025 03:00:36,0.001s,PASSED
