@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Pop-Up" time="77.285" tests="1" failures="0" errors="0">
+   <testsuite name="Pop-Up" tests="1" failures="0" errors="0" time="77.285" skipped="0" timestamp="23-01-2025T20:26:56" hostname="maxle - 192.168.1.18" id="Test Suites/Pop-Up">
+      <properties>
+         <property name="deviceName" value="iPhone 16"/>
+         <property name="devicePlatform" value="IOS"/>
+         <property name="logFolder" value="/Users/maxle/git/Git-Demo2/Reports/20250123_202652/Pop-Up/20250123_202652"/>
+         <property name="logFiles" value="/Users/maxle/git/Git-Demo2/Reports/20250123_202652/Pop-Up/20250123_202652/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="maxle - 192.168.1.18"/>
+         <property name="remoteDriverUrl" value="https://token:eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJpZTlDMnN4ZjZ4czczSHJxY0QyejRxcVVzNEFpOWVzNXR5SVVKYmRTYW04In0.eyJleHAiOjE3Mzc4MDk2NjYsImlhdCI6MTczNzYzNjg2NiwianRpIjoiMzg4ZjMwMzYtMGRkYy00YzNlLWIxMzEtOWIyYWIyODk0OTkyIiwiaXNzIjoiaHR0cHM6Ly9sb2dpbi5rYXRhbG9uLmNvbS9yZWFsbXMva2F0YWxvbiIsImF1ZCI6ImFjY291bnQiLCJzdWIiOiI5MmZhYTM3Yi1lMDQ5LTRkNzQtODY5Ny05MGJiOGRjNzQxYzAiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJrYXRhbG9uLWFkbWluIiwic2lkIjoiNWE0YTI4YzMtYzcwZS00MDI3LWIxY2QtNDQwMjk4MmZlODM5IiwiYWNyIjoiMSIsImFsbG93ZWQtb3JpZ2lucyI6WyJodHRwczovL215LmthdGFsb24uY29tIiwiaHR0cHM6Ly9hZG1pbi5rYXRhbG9uLmNvbSJdLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsidW1hX2F1dGhvcml6YXRpb24iLCJkZWZhdWx0LXJvbGVzLWthdGFsb24iXX0sInJlc291cmNlX2FjY2VzcyI6eyJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImxhc3RfbG9naW4iOjE3Mzc2MzY4NTAxMDMsIm5hbWUiOiJRdW9jIE1heCBMZSIsImNyZWF0ZWRfdGltZXN0YW1wIjoxNzI5MDI2MDkyOTE0LCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJxdW9jLmxlQGthdGFsb24uY29tIiwiZ2l2ZW5fbmFtZSI6IlF1b2MgTWF4IiwiZmFtaWx5X25hbWUiOiJMZSIsImVtYWlsIjoicXVvYy5sZUBrYXRhbG9uLmNvbSJ9.C5IV94neHypsb8HPio_IwcE6_-N9ZaY_6RRfUUefRkO7_pw35gUP6iuw70Xc--PlCSkpUrbTD7UWYQgoDRPS0XLr2GngTqs7sjyvo_mdVDYnYo7XLy3LdaUAu8dfxpjKCFafPezDi9IaJimLnu9B9Q9d544bvI4xIHOGwlgVTJyOrUxM5rYJmNn1k4VGUUSWn9ARNx3oHHYzuVCDr1tr8DyUMv-2YEp4Y6GjU1aXbF326Mu20gRseRWoBv-n5Ny051-ZVwmf-QbSOzQL5B-uq7S7FdtbtRTwPFNipfLydaUOeNoUfS6ph7_50AVCFMyjS6WxS01DJBgEvuDblxz8Ow@testcloud.katalon.com/hub"/>
+         <property name="desiredCapabilities" value="{&#xa;  &quot;app&quot;: &quot;bf6a7b1c-1fef-444a-921a-31adf8c4f9fd&quot;,&#xa;  &quot;browserVersion&quot;: &quot;latest&quot;,&#xa;  &quot;browserName&quot;: &quot;safari&quot;,&#xa;  &quot;appium:deviceName&quot;: &quot;Any iPhone&quot;,&#xa;  &quot;platformName&quot;: &quot;IOS&quot;,&#xa;  &quot;appium:platformVersion&quot;: &quot;18&quot;,&#xa;  &quot;katalon:options&quot;: {&#xa;    &quot;metadata&quot;: {&#xa;      &quot;organizationId&quot;: &quot;1192683&quot;,&#xa;      &quot;accountId&quot;: &quot;1057599&quot;,&#xa;      &quot;channel&quot;: &quot;kse;v\u003d10.1.0&quot;&#xa;    },&#xa;    &quot;appiumVersion&quot;: &quot;2.11.2&quot;,&#xa;    &quot;executionMode&quot;: &quot;queue&quot;,&#xa;    &quot;usingTunnel&quot;: false&#xa;  }&#xa;}"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="10.1.0.223"/>
+         <property name="katalon:caps" value="{&#xa;  &quot;executionId&quot;: &quot;c109b4df-1413-4c9b-a9dd-d1d6621d9698&quot;,&#xa;  &quot;executionSessionId&quot;: &quot;cbbc59c6-fc61-42d7-bf71-966d1d724130&quot;,&#xa;  &quot;deviceName&quot;: &quot;iPhone 16&quot;&#xa;}"/>
+         <property name="hostAddress" value="192.168.1.18"/>
+         <property name="deviceName" value="iPhone 16"/>
+      </properties>
+      <testcase name="Test Cases/Verify Element Pop-Up Test" time="77.206" classname="Test Cases/Verify Element Pop-Up Test" status="PASSED">
+         <system-out><![CDATA[23-01-2025T20:26:56 - [TEST_CASE][PASSED] - Test Cases/Verify Element Pop-Up Test: Test Cases/Verify Element Pop-Up Test
+
+23-01-2025T20:26:57 - [TEST_STEP][PASSED] - Start listener action : enableSauceLabs: [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+23-01-2025T20:26:57 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: TestCloud - Any iPhone, version=18, Tunnel=false, safari
+
+23-01-2025T20:26:57 - [MESSAGE][INFO] - [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+23-01-2025T20:26:57 - [TEST_STEP][PASSED] - startApplication("bf6a7b1c-1fef-444a-921a-31adf8c4f9fd", true): Started application: 'bf6a7b1c-1fef-444a-921a-31adf8c4f9fd'
+
+23-01-2025T20:26:57 - [MESSAGE][INFO] - Starting application: 'bf6a7b1c-1fef-444a-921a-31adf8c4f9fd'
+
+23-01-2025T20:27:41 - [MESSAGE][WARNING] - Unable to get appium status. Root cause (com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 11 path $)
+
+23-01-2025T20:27:44 - [MESSAGE][PASSED] - Started application: 'bf6a7b1c-1fef-444a-921a-31adf8c4f9fd'
+
+23-01-2025T20:27:44 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/XCUIElementTypeStaticText - Allow Arora ATLAS Mobile to use your location"), "Allow “Arora ATLAS Mobile” to use your location?"): Actual text and expected text of test object 'Object Repository/XCUIElementTypeStaticText - Allow Arora ATLAS Mobile to use your location' are matched.
+
+23-01-2025T20:27:51 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/XCUIElementTypeStaticText - Allow Arora ATLAS Mobile to use your location' are matched.
+
+23-01-2025T20:27:51 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/XCUIElementTypeStaticText - When you share your location with this app, a blue location indicator will appear to view your current position on the map. This will help you to locate nearby assets of your facility"), "When you share your location with this app, a blue location indicator will appear to view your current position on the map. This will help you to locate nearby assets of your facility."): Actual text and expected text of test object 'Object Repository/XCUIElementTypeStaticText - When you share your location with this app, a blue location indicator will appear to view your current position on the map. This will help you to locate nearby assets of your facility' are matched.
+
+23-01-2025T20:27:57 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/XCUIElementTypeStaticText - When you share your location with this app, a blue location indicator will appear to view your current position on the map. This will help you to locate nearby assets of your facility' are matched.
+
+23-01-2025T20:27:57 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/XCUIElementTypeButton - Dont Allow"), "Don’t Allow"): Actual text and expected text of test object 'Object Repository/XCUIElementTypeButton - Dont Allow' are matched.
+
+23-01-2025T20:28:03 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/XCUIElementTypeButton - Dont Allow' are matched.
+
+23-01-2025T20:28:03 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/XCUIElementTypeButton - Dont Allow"), 0): Tapped on element 'Object Repository/XCUIElementTypeButton - Dont Allow'
+
+23-01-2025T20:28:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+23-01-2025T20:28:09 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/XCUIElementTypeButton - Dont Allow'
+
+23-01-2025T20:28:09 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+23-01-2025T20:28:14 - [MESSAGE][PASSED] - Close app successfully
+
+23-01-2025T20:28:14 - [TEST_STEP][PASSED] - Start listener action : autoUpdateJobStatus: [SAUCELABS] Current run configuration: TestCloud - Any iPhone, version=18, Tunnel=false, safari
+
+23-01-2025T20:28:14 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: TestCloud - Any iPhone, version=18, Tunnel=false, safari]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[23-01-2025T20:26:56 - [TEST_SUITE][PASSED] - Pop-Up: Test Cases/Verify Element Pop-Up Test]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
