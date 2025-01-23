@@ -19,8 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('bf6a7b1c-1fef-444a-921a-31adf8c4f9fd', true)
 
-Mobile.verifyElementText(findTestObject('Object Repository/XCUIElementTypeStaticText - Allow Arora ATLAS Mobile to use your location'), 
-    'Allow “Arora ATLAS Mobile” to use your location?')
+Mobile.verifyElementText(findTestObject('XCUIElementTypeStaticText - Allow Arora ATLAS Mobile to use your location'), 'Allow “Arora ATLAS Mobile” to use your location?')
 
 Mobile.verifyElementText(findTestObject('Object Repository/XCUIElementTypeStaticText - When you share your location with this app, a blue location indicator will appear to view your current position on the map. This will help you to locate nearby assets of your facility'), 
     'When you share your location with this app, a blue location indicator will appear to view your current position on the map. This will help you to locate nearby assets of your facility.')
